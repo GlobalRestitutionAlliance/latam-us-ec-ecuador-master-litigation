@@ -1,0 +1,482 @@
+vector_index_block:
+  jurisdiction: Ecuador
+  iso: EC
+  block: 7
+  range: [571,665]
+  status: SCAFFOLDED_PENDING_VERIFICATION
+  vectors:
+    - vector_id: "EC-V-0571"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0572"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0573"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0574"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0575"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0576"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0577"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0578"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0579"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0580"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0581"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0582"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0583"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0584"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0585"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0586"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0587"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0588"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0589"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0590"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0591"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0592"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0593"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0594"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0595"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0596"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0597"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0598"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0599"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0600"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0601"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0602"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0603"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0604"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0605"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0606"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0607"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0608"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0609"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0610"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0611"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0612"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0613"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0614"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0615"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0616"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0617"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0618"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0619"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0620"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0621"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0622"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0623"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0624"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0625"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0626"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0627"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0628"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0629"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0630"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0631"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0632"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0633"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0634"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0635"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0636"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0637"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0638"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0639"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0640"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0641"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0642"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0643"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0644"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0645"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0646"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0647"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0648"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0649"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0650"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0651"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0652"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0653"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0654"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0655"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0656"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0657"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0658"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0659"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0660"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0661"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0662"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0663"
+      anchor: "Dollarization and external debt pressures"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0664"
+      anchor: "Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "EC-V-0665"
+      anchor: "Indigenous rights and territorial protection"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true

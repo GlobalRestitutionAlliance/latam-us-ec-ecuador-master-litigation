@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+EC-BAN-01,Banking and Sanctions Compliance,"Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+EC-BAN-02,Banking and Sanctions Compliance,Indigenous rights and territorial protection,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+EC-BAN-03,Banking and Sanctions Compliance,Dollarization and external debt pressures,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+EC-BAN-04,Banking and Sanctions Compliance,"Oil extraction and environmental harm in Amazon (public litigation record, incl. Chevron/Texaco disputes context)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+EC-BAN-05,Banking and Sanctions Compliance,Indigenous rights and territorial protection,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
