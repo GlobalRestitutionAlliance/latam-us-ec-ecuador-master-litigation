@@ -1,0 +1,11 @@
+source_id,title,url,publisher,source_type,access,notes,legal_review_status
+SRC-001,Library of Congress - Ecuador,https://www.loc.gov/search/?q=ecuador+united+states,Library of Congress,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-002,State Dept - Ecuador,https://www.state.gov/countries-areas/ecuador/,State Dept,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-003,FRUS - Ecuador,https://history.state.gov/countries/ecuador,FRUS,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-004,UN Digital Library - Ecuador,https://digitallibrary.un.org/search?ln=en&p=ecuador,UN Digital Library,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-005,World Bank - Ecuador,https://data.worldbank.org/country/ecuador,World Bank,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-006,UNHCR - Ecuador,https://www.unhcr.org/countries/ecuador,UNHCR,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-007,HRW - Ecuador,https://www.hrw.org/americas/ecuador,HRW,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-008,Amnesty - Ecuador,https://www.amnesty.org/en/location/americas/south-america/ecuador/,Amnesty,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-009,NARA - Ecuador,https://catalog.archives.gov/search?q=ecuador,NARA,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-010,OAS - Ecuador,https://www.oas.org/en/member_states/member_state.asp?sCode=ECU,OAS,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
